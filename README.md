@@ -2,6 +2,9 @@
 ![](Photo/ss.jpeg)
 
 ## Deskripsi Dataset
+Dataset terdiri dari 2 class yaitu with_mask dan without_mask
+
+
 - Jumlah dataset Training :  5000
 
 - Jumlah dataset Validasi :  2553

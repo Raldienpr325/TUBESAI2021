@@ -1,5 +1,5 @@
 # Face Mask Image Classification using VGG16
-![]()
+![](Photo/ss.jpeg)
 ## Face Mask Detection Data set
 - Dalam tren baru-baru ini di Lockdown di seluruh dunia karena wabah COVID-19, karena Masker Wajah menjadi wajib bagi semua orang saat berkeliaran di luar, pendekatan Deep Learning for Detect Faces With and Without mask adalah praktik trendi yang baik. Di sini saya telah membuat model yang mendeteksi masker wajah yang dilatih pada 7553 gambar dengan 3 saluran warna (RGB). Pada arsitektur Custom CNN Akurasi pelatihan model mencapai 94% dan akurasi validasi 96%.
 

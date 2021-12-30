@@ -1,11 +1,10 @@
 # Face Mask Image Classification using VGG16
-
+![]()
 ## Face Mask Detection Data set
-- In recent trend in world wide Lockdowns due to COVID19 outbreak, as Face Mask is became mandatory for everyone while roaming outside, approach of Deep Learning for Detecting Faces With and Without mask were a good trendy practice. Here I have created a model that detects face mask trained on 7553 images with 3 color channels (RGB).
-On Custom CNN architecture Model training accuracy reached 94% and Validation accuracy 96%.
+- Dalam tren baru-baru ini di Lockdown di seluruh dunia karena wabah COVID-19, karena Masker Wajah menjadi wajib bagi semua orang saat berkeliaran di luar, pendekatan Deep Learning for Detect Faces With and Without mask adalah praktik trendi yang baik. Di sini saya telah membuat model yang mendeteksi masker wajah yang dilatih pada 7553 gambar dengan 3 saluran warna (RGB). Pada arsitektur Custom CNN Akurasi pelatihan model mencapai 94% dan akurasi validasi 96%.
 
 ## Content
-- Data set consists of 7553 RGB images in 2 folders as withmask and withoutmask. Images are named as label withmask and withoutmask. Images of faces with mask are 3725 and images of faces without mask are 3828.
+- Kumpulan data terdiri dari 7553 gambar RGB dalam 2 folder sebagai withmask dan tanpamask. Gambar disebut sebagai label dengan masker dan tanpa masker. Gambar wajah dengan topeng adalah 3725 dan gambar wajah tanpa topeng adalah 3828.
 
 ## Acknowledgements
 - I have taken 1776 images including both With and Without Face Mask images from Prajna Bhandary's Github account
@@ -17,7 +16,7 @@ On Custom CNN architecture Model training accuracy reached 94% and Validation ac
 - 3828 Images of Face without Mask.
 
 ## Inspiration
-- Inspired by Adrian Rosebrock, PhD. With the help of his guidance on his website https://www.pyimagesearch.com/ it was easy to understand the basics of Image processing and    Deep Learning.
+- Terinspirasi oleh Adrian Rosebrock, PhD. Dengan bantuan bimbingannya di situs webnya https://www.pyimagesearch.com/ mudah untuk memahami dasar-dasar pemrosesan Gambar dan Deep Learning.
 
 ## Teknik Deep Learning yang digunakan
  - Model dengan menggunakan algoritma VGG16
@@ -40,4 +39,4 @@ Kontributors dalam project ini adalah :
 
 - R Aldien Prayoga 201910370311413
 
-- Aris Muhandisin  201910370311432
+- Aris Muhandisin   201910370311432

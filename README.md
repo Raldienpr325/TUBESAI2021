@@ -19,3 +19,18 @@ Remaining 5777 images are collected and filtered from Google search engine.
 
 # Inspiration
 Inspired by Adrian Rosebrock, PhD. With the help of his guidance on his website https://www.pyimagesearch.com/ it was easy to understand the basics of Image processing and Deep Learning.
+
+# Teknik Deep Learning yang digunakan
+-> Model dengan menggunakan algoritma VGG16
+
+# Deskripsi Dataset
+Jumlah dataset Training :  5000
+Jumlah dataset Validasi :  2553
+Jumlah train kelas Masker :  2500
+Jumlah train kelas Non Masker :  2500
+Jumlah validasi kelas Masker :  1225
+Jumlah validasi kelas Non Masker :  1328
+
+# Authors
+R Aldien Prayoga 201910370311413
+Aris Muhandisin  201910370311432

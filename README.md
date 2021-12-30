@@ -55,7 +55,7 @@ Sisa 5777 gambar dikumpulkan dan disaring dari mesin pencari Google.
 
 - Lou, G., & Shi, H. (2020). “Face image recognition based on convolutional neural network”. China Communications, 17(2), 117–124. https://doi.org/10.23919/JCC.2020.02.010
 
--Rokhana, R., Herulambang, W., & Indraswari, R. (2021). “Multi-Class Image Classification Based on MobileNetV2 for Detecting the Proper Use of Face Mask.” 2021 International Electronics Symposium (IES), 636–641. https://doi.org/10.1109/IES53407.2021.9594022
+- Rokhana, R., Herulambang, W., & Indraswari, R. (2021). “Multi-Class Image Classification Based on MobileNetV2 for Detecting the Proper Use of Face Mask.” 2021 International Electronics Symposium (IES), 636–641. https://doi.org/10.1109/IES53407.2021.9594022
 
 -	 Saranya, G., Sarkar, D., Ghosh, S., Basu, L., Kumaran, K., & Ananthi, N. (2021). “Face Mask Detection using CNN”. 2021 10th IEEE International Conference on Communication Systems and Network Technologies (CSNT), 426–431. https://doi.org/10.1109/CSNT51715.2021.9509556
 
